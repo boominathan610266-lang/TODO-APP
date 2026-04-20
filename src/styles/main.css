@@ -1,0 +1,14 @@
+body {
+  background-color: #e2e5eb;
+  padding: 50px;
+}
+
+.task-item {
+  transition: 0.3s;
+}
+
+.task-item:hover {
+  transform: scale(1.02);
+  background-color: #1e293b;
+  color: rgb(49, 12, 236);
+}
